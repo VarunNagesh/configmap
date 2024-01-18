@@ -9,6 +9,7 @@ data:
   accounts.developer: apiKey,login
   accounts.infra: apiKey,login
   accounts.super-dev: apiKey, login
+  accounts.super-infra: apiKey, login
   configManagementPlugins: |-
     - name: argocd-vault-plugin
       generate:
